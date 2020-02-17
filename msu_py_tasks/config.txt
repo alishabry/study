@@ -1,0 +1,3 @@
+dataFileName = 'mtesrl_20150626_MD0000600012_stats.txt'
+statisticsFileName = 'statfile.txt'
+tableFileName = 'tableFile.html'
